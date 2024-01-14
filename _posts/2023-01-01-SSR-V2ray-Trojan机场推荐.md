@@ -1,13 +1,16 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      导航页 				# 标题 
-subtitle:   Hello World, Hello Blog #副标题
-date:       2020-01-14 				# 时间
+title:      SSR-V2ray-Trojan机场推荐 				# 标题 
+subtitle:   SSR-V2ray-Trojan机场推荐 #副标题
+date:       2023-01-01 				# 时间
 author:     BY 						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
-    - 导航
+    - 机场推荐
+    - Shadowrocket机场
+    - V2ray机场
+    - Trojan机场
 ---
 
 # SSR-V2ray-Trojan机场推荐
