@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: 机场推荐与机场评测
+SEOTitle: 免费机场推荐,付费机场推荐与机场评测
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+email: owo10086@proton.me
+description: "免费机场推荐,付费机场推荐与机场评测"
+keyword: "机场推荐, 付费机场推荐, 免费机场推荐, 机场评测, clash, iOS, Apple, iPhone, clashx, clashxpro, ssr, v2rayr, v2rayn, vemss, SSR-v2ray"
 url: "https://owo10086.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     机场推荐与机场评测
+zhihu_username:     机场推荐与机场评测
+github_username:    机场推荐与机场评测
+facebook_username:  机场推荐与机场评测
+jianshu_username:   机场推荐与机场评测
+#twitter_username:   机场推荐与机场评测
 
 
 
